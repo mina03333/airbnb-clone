@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `install @material-ui/icons and @material-ui/core`
+### `install react-router-dom`
+### `install react-date-range`
+### `date fns`
+
 ### `npm start`
 
 Runs the app in the development mode.\
